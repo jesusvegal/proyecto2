@@ -17,7 +17,7 @@ repositorio en tu cuenta de Github.
 - Navega a los archivos que deseas modificar. Realiza los cambios necesarios y luego baja a la parte inferior de la página para confirmar tus cambios, escribiendo un mensaje descriptivo y
 presionando el botón "Commit changes".
 
-4. **Sincroniza tu fork con el repositorio original **
+4. **Sincroniza tu fork con el repositorio original**
 - Para mantener tu fork actualizado con los cambios más recientes del repositorio original:
 1.Ve a la página principal de tu repositorio forked.
 2. Haz clic en el botón "Sync fork" para sincronizar tu fork con el repositorio original.
